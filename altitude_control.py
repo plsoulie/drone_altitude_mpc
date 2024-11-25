@@ -1,4 +1,4 @@
-Tu     # Update positions and velocities based on applied thrusts
+# Update positions and velocities based on applied thrusts
     x += velocity_x * dt
     y += velocity_y * dt
     altitude += velocity_z * dt
